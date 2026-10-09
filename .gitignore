@@ -1,0 +1,28 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+.vite/
+
+# 各周示例代码目录（不提交）
+第05周-Vue基础/示例代码/
+第06周-Vue组件化/示例代码/
+第07周-Vue工程实践/示例代码/
+第08周-VueRouter结业项目/示例代码/
+
+# 环境变量（.env.example 需要提交）
+.env
+.env.*
+!.env.example
+
+# 本地数据与日志
+data.sqlite
+*.log
+*.local
+
+# 编辑器与系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
