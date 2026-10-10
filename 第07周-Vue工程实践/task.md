@@ -19,7 +19,7 @@
 
 > 说明：本周仍为单视图应用，**不要求使用 Vue Router**；多视图拆分放在第 8 周。
 >
-> 接口服务使用仓库根目录的 `后端服务/`（Express + SQLite **真实后端**，带登录鉴权与数据持久化）：`cd 后端服务 && npm install && npm start`。它监听 `localhost:3000`，与示例 `vite.config.js` 的代理目标一致，前端代码无需改动即可对接。
+> 接口服务使用仓库根目录的 `后端服务/`（Express + SQLite **真实后端**，带登录鉴权与数据持久化）：`cd 后端服务 && npm install && npm start`。它监听 `localhost:3000`，前端代码无需改动即可对接。
 
 ## 指引
 
